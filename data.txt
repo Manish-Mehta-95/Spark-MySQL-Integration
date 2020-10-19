@@ -1,0 +1,8 @@
+world_data:
+
+root
+ |-- Date: date (nullable = true)
+ |-- Country: string (nullable = true)
+ |-- Confirmed: integer (nullable = true)
+ |-- Recovered: integer (nullable = true)
+ |-- Deaths: integer (nullable = true
